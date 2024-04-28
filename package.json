@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "name": "discordwhitelistapp",
+  "description": "Discord Whitelist App With Discord.js",
+  "version": "1.0.0",
+  "main": "./dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tsc && node . development",
+    "start": "tsc && node ."
+  },
+  "keywords": [],
+  "author": "reds0866",
+  "license": "GPL-3.0-only"
+}
